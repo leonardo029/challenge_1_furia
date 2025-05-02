@@ -32,6 +32,8 @@ function App() {
           </p>
         </div>
       </main>
+
+      {/* Botão do chatBot localizado no canto inferior direito */}
       <ChatButton />
     </div>
   );
