@@ -2,7 +2,7 @@
 
 ![FURIA Logo](/assets/images/logoFuria.svg)
 
-Este projeto é um chat iterativo criado para fãs do time de CS da Fúria. Desafio Técnico da FURIA Tech para a vaga de Assistente de Engenharia de Software.
+Este projeto é um chat iterativo criado para fãs do time de CS da FURIA. Desafio Técnico da FURIA Tech para a vaga de Assistente de Engenharia de Software.
 
 ## 📋 Sobre o Projeto
 
